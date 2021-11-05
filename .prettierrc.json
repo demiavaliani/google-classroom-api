@@ -1,0 +1,9 @@
+{
+	"printWidth": 100,
+	"configPath": ".prettierrc.json",
+	"trailingComma": "es5",
+	"tabWidth": 3,
+	"semi": true,
+	"useTabs": true,
+	"proseWrap": "never"
+}
